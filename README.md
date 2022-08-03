@@ -1,5 +1,5 @@
 -   Olá, sou o gustavo sou desenvolvedor junior.
--   Tenho interesse em desevolver sistemas que sejam uteis e que tragam valor para quem usufrui e traz benficios reias para as pessoas.
+-   Tenho interesse em desevolver sistemas que sejam uteis e que tragam valor e traz benficios reias para as pessoas.
 -   Hoje estou aprimorando meus conhecimento em arquitetura de software e linguaguens e framework do meus escpo como flutter, dart, javaScript, react e vue.js.
 -   Procuro colaborar com pessoas que pensam em inovar e estão buscando isso na pratica,
 -   Busco resolver problemas e entrar valor com isso busco empresas e pessoas que vão para o mesmo caminho.
